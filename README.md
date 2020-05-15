@@ -2,7 +2,9 @@
 
 **Project started: 6/12/2020, Last updated: 6/12/2020**
 
-This is a C++ module for Garry's Mod which allows developers to encode strings to Base64 and decode them from Base64. I decided to make this because as of writing this, Garry's Mod only has [a function to encode strings to Base64](https://wiki.garrysmod.com/page/util/Base64Encode).
+This is a C++ module for Garry's Mod which allows developers to encode strings to Base64 and decode them from Base64. ~~I decided to make this because as of writing this, Garry's Mod only has [a function to encode strings to Base64](https://wiki.garrysmod.com/page/util/Base64Encode).~~
+
+**UPDATE:** Garry's Mod now has [util.Base64Decode()](https://wiki.facepunch.com/gmod/util.Base64Decode()) too, so this repository has been archived as it no longer serves much purpose.
 
 ### Installation
 
